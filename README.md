@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Backwardpen
+- 👀 I’m interested in programming Minecraft Server Plugins (Java spigot). 
+- 🌱 I’m currently learning Python. 
+- Yes, I'm weird
