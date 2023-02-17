@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Backwardpen
 - 👀 I’m interested in programming Minecraft Server Plugins (Java spigot). 
-- 🌱 I’m currently learning Python. 
-- Yes, I'm weird
+- 🌱 I’m currently learning quite a lot recently via Sololearn(.com), which is a good website to learn to code with new code languages
+- If I´m weird, you asking? Well, maybe. I think so
